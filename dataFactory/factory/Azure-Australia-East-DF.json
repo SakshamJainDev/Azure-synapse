@@ -1,0 +1,15 @@
+{
+	"name": "Azure-Australia-East-DF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "680daf28-ea60-4a43-85c5-fddbda4a5c9f",
+		"tenantId": "f8d5a070-bf5e-43b9-a834-e2bac8dd24fa"
+	}
+}
